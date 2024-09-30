@@ -1,6 +1,6 @@
 name: simple_animated_dialog
 description: "A simple and customizable package for creating animated dialogs in Flutter. It supports a variety of dialog transition animations such as sliding, fading, scaling, and more, making it easy to add polished dialog transitions to your Flutter app."
-version: 0.0.1
+version: 0.0.2
 homepage: "https://github.com/shiloSaadon/simple_animated_dialog"
 
 environment:
