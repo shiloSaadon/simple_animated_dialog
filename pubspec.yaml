@@ -1,6 +1,6 @@
 name: simple_animated_dialog
 description: "A customizable Flutter package for animated dialogs, featuring transitions like sliding, fading, and scaling to enhance app UI interactions."
-version: 0.0.3
+version: 0.0.4
 homepage: "https://github.com/shiloSaadon/simple_animated_dialog"
 
 environment:

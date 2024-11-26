@@ -51,7 +51,7 @@ dependencies:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:simple_animated_dialog/simple_animated_dialog.dart';
+import 'package:simple_animated_dialog/simple_animated_dialog_lib.dart';
 
 void showMyCustomDialog(BuildContext context) {
   showAnimatedDialog<dynamic>(
